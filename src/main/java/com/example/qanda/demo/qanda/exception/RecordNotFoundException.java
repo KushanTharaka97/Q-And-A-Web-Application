@@ -3,6 +3,8 @@ package com.example.qanda.demo.qanda.exception;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
 
+//------[CREATED BY @kushan] 2020-10-02
+
 @ResponseStatus(value = HttpStatus.NOT_FOUND)
 public class RecordNotFoundException extends RuntimeException{
     private String exceptionDetail;

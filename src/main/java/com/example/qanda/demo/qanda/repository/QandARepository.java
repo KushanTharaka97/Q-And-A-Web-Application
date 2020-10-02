@@ -4,6 +4,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
 import com.example.qanda.demo.qanda.model.QandAEntity;
+//------[CREATED BY @kushan] 2020-10-02
 
 //The Spring JPA comes up with a JpaRepository interface .
 // This interface defines all the methods used for CRUD operations on the entity.

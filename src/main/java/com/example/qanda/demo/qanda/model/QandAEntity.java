@@ -1,6 +1,7 @@
 package com.example.qanda.demo.qanda.model;
 
 import javax.persistence.*;
+//------[CREATED BY @kushan] 2020-10-02
 
 //Now let’s create our Model class or JPA Entity in the application.
 // The model class will use to hold the data , these classes are used to structure the data in the form of JPA Entity class.
